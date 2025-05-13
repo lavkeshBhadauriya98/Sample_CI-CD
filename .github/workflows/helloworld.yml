@@ -8,7 +8,7 @@ on:
 
 jobs:
     helloworld:
-    runs-on: ubuntu-latest
-    steps:
-        -name: "Print Hello World"
-        run : Echo "hello World"
+        runs-on: ubuntu-latest
+        steps:
+             -name: "Print Hello World"
+              run : Echo "hello World"
